@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osaze
-- ⚡ I love data science, programming, and football
+- ⚡ I love data analytics, programming, and football
 - 🌱  I’m addicted to learning and continuous improvement
 
 
